@@ -15,7 +15,7 @@ You will need to install `ffmpeg` to convert the audio to a `.wav` file. You can
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-#### Install ffmpeg
+#### Install ffmpeg (only needed if you wish to produce dolphin audio)
 ```bash
 brew install ffmpeg
 ```
@@ -37,8 +37,10 @@ The tool will also copy your message to your clipboard, so you can paste it into
 
 ## Roadmap
 - [ ] Add a decoder to convert the audio back to text.
-- [ ] Add a GUI.
-- [ ] Add a web interface.
+- [ ] Add a GUI, because why not?
+- [ ] Add a web ui where I can display spammy google adwords ads to unsuspecting visitors they never actually click on and just end up degrading their browsing experience.
 
-Please use responsibly.  Do not start any dolphin wars or incide any dolphin riots with this tool. May the clicks be with you.
+Please use responsibly.  Do not start any dolphin wars or otherwise incite any dolphin unrest with this tool.
+
+May the clicks be with you.
 
