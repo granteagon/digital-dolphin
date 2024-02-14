@@ -35,5 +35,10 @@ python digital_dolphin.py
 
 The tool will also copy your message to your clipboard, so you can paste it into your text messages or emails.
 
+## Roadmap
+- [ ] Add a decoder to convert the audio back to text.
+- [ ] Add a GUI.
+- [ ] Add a web interface.
+
 Please use responsibly.  Do not start any dolphin wars or incide any dolphin riots with this tool. May the clicks be with you.
 
